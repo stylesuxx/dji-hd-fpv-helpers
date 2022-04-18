@@ -2,7 +2,7 @@
 This repository is dedicated to helper scripts used on the host machine to help with different tasks like image conversion.
 
 ## Installation
-Clone the repository and use pipenv to install the dependencies:
+Clone the repository and use [pipenv](https://pipenv.pypa.io/en/latest/) to install the dependencies:
 
 ```
 pipenv shell
